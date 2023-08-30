@@ -13,4 +13,22 @@ html {
     color: aquamarine;
     text-decoration: underline;
 }
-
+.travel .heading2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+.travel .subheading2 {
+    font-size: 21px;
+    color: gray;
+}
+.bottom .coming {
+    font-size: 42px;
+    font-weight: 300px;
+}
+.bottom img {
+    margin-top: 15px;
+}
+footer {
+    text-align: right;
+    color: gray;
+}
